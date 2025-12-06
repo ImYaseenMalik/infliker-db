@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "infliker-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "3c01e1fe-8469-403f-8cd3-0edea5d7aa61",
+			"database_name": "infliker_db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
